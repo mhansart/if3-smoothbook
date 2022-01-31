@@ -1,0 +1,6 @@
+[submodule "if3-smoothbook-backend"]
+	path = if3-smoothbook-backend
+	url = https://github.com/mhansart/if3-smoothbook-backend.git
+[submodule "if3-smoothbook-frontend"]
+	path = if3-smoothbook-frontend
+	url = https://github.com/mhansart/if3-smoothbook-frontend.git
